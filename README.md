@@ -95,6 +95,8 @@ The web interface allows real-time control of the RC car. It includes buttons fo
 
 ### Screenshots
 
+You can find them alongside a video of my own model in the Pictures folder.
+
 ## Customization
 
 - **Wi-Fi Credentials**: Change the `SSID` and `Password` constants in the code.
